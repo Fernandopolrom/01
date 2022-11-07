@@ -6,6 +6,7 @@ public class ejercicio {
 		
 		System.out.print("prueba");
 		System.out.print("prueba");
+		System.out.print("prueba");
 	}
 
 }
